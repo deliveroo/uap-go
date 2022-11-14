@@ -1,4 +1,5 @@
 
 [submodule "uap-core"]
 	path = uap-core
-	url = https://github.com/ua-parser/uap-core.git
+	url = git@github.com:deliveroo/uap-core.git
+	branch = fix/useragent-parsing
